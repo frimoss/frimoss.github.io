@@ -603,6 +603,7 @@ button, .btn {
     /* Organization */
     .organization {
         padding: 60px 0;
+        min-height: auto;
     }
     .organization__title {
         font-size: 20px;
