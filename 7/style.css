@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Oswald", sans-serif;
+	background: #f8f8f8;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	padding: 60px 20px;
+}
+
+main img {
+	width: 150px;
+	border-radius: 15%;
+}
+
+main h2 {
+	margin: 12px 0;
+	width: 250px;
+}
+
+main p {
+	font-size: 16px;
+	padding: 7px 0;
+}
